@@ -1,0 +1,6 @@
+Buildings
+Forest
+glacier
+street
+sea
+Mountain
